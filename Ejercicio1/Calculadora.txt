@@ -1,0 +1,12 @@
+Vamos a crear una calculadora como ejercicio. 
+Cada uno creará un archivo de texto con una operación, es decir:
+-suma
+-resta
+-multiplicación
+-división
+-raiz cuadrada
+-potencia
+-factorización
+Agrega al repositorio colaborativo con git add .
+Se realiza el commit correspondiente "git commit -m "Se agregó la operacion XXXXX" 
+Se suben los cambios a gitHub "git push"
